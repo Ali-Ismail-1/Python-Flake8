@@ -8,11 +8,11 @@ def tooCLose():
 
 def quotes():
     print("QUOTES")
-    
-    
+
+
 def badSpaces():
     print('bad spacing')
-  
-  
+
+
 def tooLong():
     print('12345678901234567890')

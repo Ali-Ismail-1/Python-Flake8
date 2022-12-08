@@ -1,13 +1,20 @@
 """
 This is a block comment
 """
-def helloWorld():
+
+
+def helloworld():
     print('hello world')
 
 
-class test():
+def another_test_method():
+    print('this is another test method')
+
+
+def method():
+    print('hi')
+
+
+class test:
     def test_method(self):
         print('this is a test method')
-
-    def another_test_method(self):
-        print('this is another test method')
